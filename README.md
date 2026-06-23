@@ -26,7 +26,7 @@ Get this project running locally on your machine in under two minutes:
 
 1. **Clone the repository:**
    ```Bash
-   git clone [https://github.com/Sanchita-InLoop/Memory-Game.git](https://github.com/Sanchita-InLoop/Memory-Game.git)
+   git clone https://github.com/Sanchita-InLoop/Memory-Game.git
    cd memory-match-game
    ```
 2. **Install project dependencies:**
