@@ -26,18 +26,18 @@ Get this project running locally on your machine in under two minutes:
 
 1. **Clone the repository:**
    ```Bash
-   git clone [https://github.com/your-username/memory-match-game.git](https://github.com/your-username/memory-match-game.git)
+   git clone [https://github.com/Sanchita-InLoop/Memory-Game.git](https://github.com/Sanchita-InLoop/Memory-Game.git)
    cd memory-match-game
-   
+   ```
 2. **Install project dependencies:**
   ```Bash
   npm install
-```
+  ```
 3. **Start the local development server:**
 
   ```Bash
   npm run dev
-```
+  ```
 4. Play the game:
   Open your browser and navigate to the local URL displayed in your terminal (typically http://localhost:5173).
 
@@ -48,6 +48,7 @@ Get this project running locally on your machine in under two minutes:
 3. Click a second card to find its match.
 
    -> If the emojis match, they stay face-up permanently.
+
    -> If they do not match, they freeze for 1 second so you can memorize their locations before automatically flipping back over.
    
 5. Clear the board to reveal the Victory Banner and see how few turns it took you!
