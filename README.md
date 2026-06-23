@@ -2,7 +2,7 @@
 
 A fast-paced, interactive card matching game built using React and Vite. Test your memory by flipping cards to find matching pairs of emojis in the fewest turns possible!
 
-🚀 **[Live Demo]()**
+🚀 **[Live Demo](https://memory-game-lac-eight.vercel.app/)**
 
 ## 🚀 Features
 
@@ -46,6 +46,8 @@ Get this project running locally on your machine in under two minutes:
 1. Click New Game (or let the grid load automatically).
 2. Click any card to reveal its emoji.
 3. Click a second card to find its match.
+
    -> If the emojis match, they stay face-up permanently.
    -> If they do not match, they freeze for 1 second so you can memorize their locations before automatically flipping back over.
-4. Clear the board to reveal the Victory Banner and see how few turns it took you!
+   
+5. Clear the board to reveal the Victory Banner and see how few turns it took you!
